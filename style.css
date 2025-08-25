@@ -40,7 +40,7 @@ body{
       background-color: #ff7cab; 
       width: 250px;
       height: 250px;
-      border-radius: 50px;
+      border-radius: 70px;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -49,8 +49,8 @@ body{
 
 .caixapatrocinio img{
     
-      max-width: 90%;
-      max-height: 90%;
+      max-width: 85%;
+      max-height: 85%;
       padding: 10px;
 }
 
